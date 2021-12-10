@@ -17,6 +17,6 @@ This is a kind of tongue-in-cheek idea - but perhaps someone would legit find th
 
 ## Examples
 
-Take a look under the "records" folder for a examples of how you could create these 🚀.
+Take a look under the "records" folder for examples of how you could create and organize these 🚀.
 
 I've also create a [mock pull-request too.](https://github.com/jamesmh/life-decision-records/pull/1)
