@@ -15,4 +15,4 @@ You could also document your important decisions and keep this collection of rec
 
 This is a kind of tongue-in-cheek idea - but perhaps someone would legit find this useful!
 
-Take a look under the "records" folder for a couple of examples of how you could create these 🚀.
+Take a look under the "records" folder for a examples of how you could create these 🚀.
