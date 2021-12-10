@@ -5,7 +5,7 @@ Each record represents a decision that was considered and can have a status of p
 
 For example, when deciding that a software team wants to introduce a new technology within their stack, they would create an ADR documenting the context around the decision and why (or why not) a particular decision was made.
 
-ADRs, once proposed, are reviewed using a pull-request so that other team members and stakeholders agree/disagree with the decision in question and can communicate with the author about missing elements of the decision or pieces of the decision they don't understand.
+Once proposed, ADRs are reviewed using a pull-request so that other team members and stakeholders can interact with the decision in question. They can communicate with the author about missing elements of the decision or pieces they don't understand.
 
 As a software engineer, I thought:
 
