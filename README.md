@@ -1,6 +1,6 @@
 # Life Decision Records
 
-[ADRs](https://adr.github.io/)(Architectural Decision Records) are a way of documenting important choices that are made within the design and development of a software system.
+[ADRs](https://adr.github.io/) (Architectural Decision Records) are a way of documenting important choices that are made within the design and development of a software system.
 Each record represents a decision that was considered and can be proposed, accepted, rejected, deprecated, superseded, etc.
 
 For example, when deciding that a software system wants to start using a new technology within their development, they would create an ADR documenting the context around the decision and why (or why not) a particular decision was made.
