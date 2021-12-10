@@ -15,4 +15,8 @@ You could also document your important decisions and keep this collection of rec
 
 This is a kind of tongue-in-cheek idea - but perhaps someone would legit find this useful!
 
+## Examples
+
 Take a look under the "records" folder for a examples of how you could create these 🚀.
+
+I've also create a [mock pull-request too.](https://github.com/jamesmh/life-decision-records/pull/1)
