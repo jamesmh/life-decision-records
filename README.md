@@ -9,7 +9,7 @@ Once proposed, ADRs are reviewed using a pull-request so that other team members
 
 As a software engineer, I thought:
 
-> What if we used ADRs for important life decisions and use pull-requests to get feedback from friends and close advisors?
+> What if we created ADRs for important life decisions and use pull-requests to get feedback from friends and close advisors?
 
 You could also document your important decisions and keep this collection of records as a way of looking back on your past year(s).
 
